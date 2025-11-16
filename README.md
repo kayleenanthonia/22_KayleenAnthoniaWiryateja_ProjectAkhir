@@ -1,0 +1,2 @@
+# 22_KayleenAnthoniaWiryateja_ProjectAkhir
+project akhir
